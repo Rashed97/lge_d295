@@ -1,1 +1,2 @@
-# android_kernel_lge_msm8610_l70pds
+# lge_d295
+LG L Fino (D295) rebase kernel
